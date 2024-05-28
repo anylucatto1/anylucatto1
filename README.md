@@ -1,16 +1,15 @@
-## Hi there 👋
+## Bem-vindo ao meu perfil 🫀
 
-<!--
-**anylucatto1/anylucatto1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Any Lucatto
+- Ela/dela
+- Estou estudando na Alura
+- Aprendendo linguagem JavaScript
 
-Here are some ideas to get you started:
+## Contato ☎️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@any_lucatto
+
+
+![](https://media1.tenor.com/m/Myi3a3NLehYAAAAC/gato-pato.gif)
+
+
