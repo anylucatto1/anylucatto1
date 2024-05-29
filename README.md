@@ -5,7 +5,7 @@ Meu nome é Any Lucatto
 - Estou estudando na Alura
 - Aprendendo linguagem JavaScript
 
-## Contato ☎️
+## Contato 📱
 
 @any_lucatto
 
